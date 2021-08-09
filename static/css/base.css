@@ -55,6 +55,9 @@ body {
 .border-black {
     border: 1px solid rgb(44, 6, 148) !important;
 }
+.bg-black {
+    background: rgb(51, 106, 177)  !important;
+}
 
 /* -------------------------------- Media Queries */
 
